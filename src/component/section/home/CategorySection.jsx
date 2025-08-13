@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router";
-import { categories } from "../../../data/HomeData/categories";
+import { categories } from "../../../data/homeData/categories";
 import { motion } from "motion/react";
 
 
