@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+@theme {
+  /* bg Iamge  */
+  --background-image-menuBg: url("./assets/MenuImage.png");
+  --background-image-summerBg: url("./assets/Summer offer bg.png");
+  --background-image-loginBG: url("./assets/loginBG.png");
+  --background-image-InstagramBG: url("./assets/InstagramBG.png");
+  --background-image-aboutmissionBG: url("./assets/aboutMessionBg.png");
+
+  /* All color  */
+  --color-regularColor: #0f0200;
+  --color-pink: #f83d8e;
+  --color-purple: #683292;
+  --color-pColor: #646464;
+  --color-hoverColor: #ec4899;
+  --color-footerliColor: #CFB6E2;
+  --color-locarionBg:  rgba(255, 255, 255, 0.10);
+}
